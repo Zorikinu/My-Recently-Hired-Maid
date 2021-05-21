@@ -110,26 +110,26 @@
          },
          "last_updated":"1616368746"
       },
-       "16": {
-      "title": "Chapter 16",
-      "groups": {
-        "Skeleton Warriors": "/proxy/api/imgur/chapter/YxR4A88/"
+      "16":{
+         "title":"Chapter 16",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/YxR4A88/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "17": {
-      "title": "Chapter 17",
-      "groups": {
-        "Skeleton Warriors": "/proxy/api/imgur/chapter/GV5Nsdh/"
+      "17":{
+         "title":"Chapter 17",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/GV5Nsdh/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "18": {
-      "title": "Chapter 18",
-      "groups": {
-        "Skeleton Warriors": "/proxy/api/imgur/chapter/Otzdxp9/"
-      },
-      "last_updated": "1616368746"
-    }
+      "18":{
+         "title":"Chapter 18",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/Otzdxp9/"
+         },
+         "last_updated":"1616368746"
+      }
    }
 }
