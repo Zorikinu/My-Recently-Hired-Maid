@@ -1,129 +1,129 @@
 {
-  "title": "<My Recently Hired Maid Is Suspicious>",
-  "description": "<The beautiful maid Lilith has recently been hired to care for the whims of her employer's son, Yurri. However, Yurri's overzealous skepticism of her every action keeps him on edge as he suspects devious mischief being plotted behind his back. Despite his paranoia, Lilith grows fond of Yurri and often teases him as a way to further their bonding.>",
-  "artist": "<Wakame Konbu>",
-  "author": "<Wakame Konbu>",
-  "cover": "<https://i.ibb.co/rwjYQBW/01.jpg>",
-  "chapters": {
-    "<01>": {
-      "title": "<Chapter 01>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<ozfeqgE>/"
+   "title":"<My Recently Hired Maid Is Suspicious>",
+   "description":"<The beautiful maid Lilith has recently been hired to care for the whims of her employer's son, Yurri. However, Yurri's overzealous skepticism of her every action keeps him on edge as he suspects devious mischief being plotted behind his back. Despite his paranoia, Lilith grows fond of Yurri and often teases him as a way to further their bonding.>",
+   "artist":"<Wakame Konbu>",
+   "author":"<Wakame Konbu>",
+   "cover":"<https://i.ibb.co/rwjYQBW/01.jpg>",
+   "chapters":{
+      "<01>":{
+         "title":"<Chapter 01>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<ozfeqgE>/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-    "<02>": {
-      "title": "<Chapter 02>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<ZnypmMf>/"
+      "<02>":{
+         "title":"<Chapter 02>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<ZnypmMf>/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "<03>": {
-      "title": "<Chapter 03>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<4RoBs4H>/"
+      "<03>":{
+         "title":"<Chapter 03>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<4RoBs4H>/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "<04>": {
-      "title": "<Chapter 04>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<3FVXGk9>/"
+      "<04>":{
+         "title":"<Chapter 04>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<3FVXGk9>/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "<05>": {
-      "title": "<Chapter 05>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<jasevpt>/"
+      "<05>":{
+         "title":"<Chapter 05>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<jasevpt>/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "<06>": {
-      "title": "<Chapter 06>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<4khcZZv>/"
+      "<06>":{
+         "title":"<Chapter 06>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<4khcZZv>/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "<07>": {
-      "title": "<Chapter 07>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<omNshZf>/"
+      "<07>":{
+         "title":"<Chapter 07>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<omNshZf>/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "<08>": {
-      "title": "<Chapter 08>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<dkwYigs>/"
+      "<08>":{
+         "title":"<Chapter 08>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<dkwYigs>/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "<09>": {
-      "title": "<Chapter 09>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<EtJrFfu>/"
+      "<09>":{
+         "title":"<Chapter 09>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<EtJrFfu>/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "<10>": {
-      "title": "<Chapter 10>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<HoeE5Fj>/"
+      "<10>":{
+         "title":"<Chapter 10>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<HoeE5Fj>/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "<11>": {
-      "title": "<Chapter 11>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<6mxWAN8>/"
+      "<11>":{
+         "title":"<Chapter 11>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<6mxWAN8>/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "<12>": {
-      "title": "<Chapter 12>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<TKZwBnY>/"
+      "<12>":{
+         "title":"<Chapter 12>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<TKZwBnY>/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "<13>": {
-      "title": "<Chapter 13>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<EsvW9xN>/"
+      "<13>":{
+         "title":"<Chapter 13>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<EsvW9xN>/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "<14>": {
-      "title": "<Chapter 14>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<DzlFsBv>/"
+      "<14>":{
+         "title":"<Chapter 14>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<DzlFsBv>/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "<15>": {
-      "title": "<Chapter 15>",
-      "volume": "<01>",
-      "groups": {
-        "<Skeleton Warriors>": "/proxy/api/imgur/chapter/<BIOuywY>/"
-      },
-      "last_updated": "1616368746"
-    }
-  }
+      "<15>":{
+         "title":"<Chapter 15>",
+         "volume":"<01>",
+         "groups":{
+            "<Skeleton Warriors>":"/proxy/api/imgur/chapter/<BIOuywY>/"
+         },
+         "last_updated":"1616368746"
+      }
+   }
 }
